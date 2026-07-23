@@ -1,24 +1,20 @@
-## Hi there 👋
 
+# 👋 Hi, I'm Carole Mbomegni Nana
 <!--
-**carolembomegni/carolembomegni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Business Intelligence | Python | SQL | Power BI | Machine Learning
 
-Here are some ideas to get you started:
+Applied Data Science graduate passionate about transforming data into actionable insights through data analytics, business intelligence, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I enjoy solving real-world business problems by cleaning, analyzing, and visualizing data to support better decision-making.
+
+📍 Ottawa, Ontario, Canada
+
+🔗 LinkedIn: https://www.linkedin.com/in/carolembomegninana/
 -->
 # 👩🏾‍💻 Carole Mbomegni Nana  
 **Applied Data Science | Data Analysis | Data Engineering**
 
 Welcome to my GitHub portfolio 👋  
-I am an **Applied Data Science student** with a strong interest in data analysis, data engineering, and building data-driven solutions from real-world datasets.
 
 My work focuses on:
 - data cleaning and preprocessing  

@@ -23,6 +23,34 @@ Welcome to my GitHub portfolio 👋
 - Business Intelligence & Data Visualization 
 
 ---
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Data Analysis
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+
+### Business Intelligence
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- Tableau
+
+### Databases
+- SQL Server
+- MySQL
+
+### Tools & Technologies
+- Streamlit
+- Git & GitHub
+- Jupyter Notebook
+- Visual Studio Code
 
 ##  Key Projects
 

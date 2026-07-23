@@ -1,6 +1,7 @@
 
 # 👋 Hi, I'm Carole Mbomegni Nana
 <!--
+
 Data Analyst | Business Intelligence | Python | SQL | Power BI | Machine Learning
 
 Applied Data Science graduate passionate about transforming data into actionable insights through data analytics, business intelligence, and machine learning.

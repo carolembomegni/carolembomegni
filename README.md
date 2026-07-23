@@ -65,71 +65,59 @@ Welcome to my GitHub portfolio 👋
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-##  Key Projects
+---
 
-###  1. Los Angeles Crime Analysis (2020 – Present)
+# ⭐ Featured Projects
 
-**Objective:**  
-Analyze crime data in Los Angeles to identify spatio-temporal patterns, high-risk areas, and key factors influencing criminal activity.
+## 🧠 Brain MRI Tumor Detection
 
-**Work performed:**
-- Cleaning and preprocessing a large, real-world dataset
-- In-depth exploratory data analysis (EDA)
-- Temporal analysis (crime trends by year, month, and hour)
-- Geographic analysis (crime distribution by area and district)
-- Feature engineering (crime type grouping, derived variables)
-- Predictive modeling for crime classification
+**Technologies:** Python • TensorFlow • Keras • Streamlit • Deep Learning
 
-**Technologies:**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Machine Learning (scikit-learn, XGBoost)
-- Data visualization
-- Git & GitHub
+Developed an interactive web application that analyzes brain MRI images and predicts the presence of brain tumors using a deep learning model. The application was deployed with Streamlit to provide a user-friendly interface for medical image classification.
 
-**Skills developed:**
-- Handling noisy and complex datasets
-- Crime data analysis and interpretation
-- End-to-end data project structuring
-- Data-driven insights for decision-making
+🔗 GitHub Repository: https://github.com/carolembomegni/Projet_SD_Detection_Tumeurs
+
+🌐 Live Demo: https://deploiement-8tn7jw57okv3ndbcrvjfqx.streamlit.app/
 
 ---
 
-###  2. Credit Default Bank – Payment Default Prediction
+## 💳 Credit Card Fraud Detection
 
-**Objective:**  
-Predict the probability of customer default using financial and demographic data to support credit risk assessment.
+**Technologies:** Python • Pandas • NumPy • Scikit-learn
 
-**Work performed:**
-- Advanced data preprocessing (missing values, outliers)
-- Exploratory analysis of key risk factors
-- Handling class imbalance
-- Training and comparing multiple classification models
-- Model evaluation (accuracy, precision, recall, F1-score)
+Performed data preprocessing and exploratory data analysis for a credit card fraud detection project. The project includes data cleaning, feature engineering, handling class imbalance, and preparing datasets for machine learning models.
 
-**Technologies:**
-- Python (Pandas, NumPy)
-- Machine Learning (Logistic Regression, Random Forest, XGBoost)
-- Data visualization
-- Git & GitHub
-
-**Skills developed:**
-- Financial risk analysis
-- Feature engineering with business context
-- Predictive modeling in banking datasets
-- Model interpretation for decision-making
+🔗 GitHub Repository: https://github.com/carolembomegni/Credit-Card-Fraud-Preprocessing
 
 ---
 
-##  Technical Skills
+## 🚗 Ontario 511 Traffic Data Analysis (Team Project)
 
-- **Languages:** Python, SQL  
-- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis  
-- **Machine Learning:** scikit-learn, XGBoost  
-- **Data Engineering:** SQL Server, Spark, Hadoop (Docker)  
-- **BI & Visualization:** Tableau, Power BI  
-- **Tools:** Git, GitHub, VS Code, Docker  
+**Technologies:** Python • SQL • Data Analysis
+
+Collaborated in a three-member team to analyze Ontario 511 traffic data. Contributed to data preparation, analysis, and reporting using Python and data analytics techniques. The GitHub repository is maintained by one of the project team members.
+
+🔗 GitHub Repository: https://github.com/Angelenguems/PROJET_UA3
 
 ---
+
+## 🩺 Diabetes Prediction
+
+**Technologies:** Python • Machine Learning • Data Analysis
+
+Developed predictive machine learning models to analyze health-related datasets and predict diabetes risk. The project includes data preprocessing, exploratory analysis, feature engineering, and model evaluation.
+
+*(GitHub link coming soon.)*
+
+---
+
+## 📊 Power BI Dashboards
+
+**Technologies:** Power BI • DAX • Power Query • Excel
+
+Designed interactive business intelligence dashboards to analyze business data, monitor key performance indicators (KPIs), and support data-driven decision-making.
+
+*(Portfolio will be added soon.)*
 
 ##  Career Objective
 

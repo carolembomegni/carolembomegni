@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Carole Mbomegni Nana
 <!--
-### Data Analyst | Business Intelligence | Python | SQL | Power BI | Machine Learning
+Data Analyst | Business Intelligence | Python | SQL | Power BI | Machine Learning
 
 Applied Data Science graduate passionate about transforming data into actionable insights through data analytics, business intelligence, and machine learning.
 
@@ -11,16 +11,17 @@ I enjoy solving real-world business problems by cleaning, analyzing, and visuali
 
 🔗 LinkedIn: https://www.linkedin.com/in/carolembomegninana/
 -->
-# 👩🏾‍💻 Carole Mbomegni Nana  
-**Applied Data Science | Data Analysis | Data Engineering**
+ 
 
 Welcome to my GitHub portfolio 👋  
 
-My work focuses on:
-- data cleaning and preprocessing  
-- exploratory data analysis (EDA)  
-- machine learning and predictive modeling  
-- data visualization and decision support  
+## 🚀 What I Do
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Dashboard Development (Power BI)
+- SQL Database Analysis
+- Machine Learning & Predictive Modeling
+- Business Intelligence & Data Visualization 
 
 ---
 

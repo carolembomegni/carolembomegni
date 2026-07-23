@@ -1,6 +1,5 @@
 
 # 👋 Hi, I'm Carole Mbomegni Nana
-<!--
 
 Data Analyst | Business Intelligence | Python | SQL | Power BI | Machine Learning
 
@@ -11,7 +10,6 @@ I enjoy solving real-world business problems by cleaning, analyzing, and visuali
 📍 Ottawa, Ontario, Canada
 
 🔗 LinkedIn: https://www.linkedin.com/in/carolembomegninana/
--->
  
 
 Welcome to my GitHub portfolio 👋  

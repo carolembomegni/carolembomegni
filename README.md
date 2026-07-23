@@ -121,10 +121,17 @@ Designed interactive business intelligence dashboards to analyze business data, 
 
 ##  Career Objective
 
-To pursue a career in **Data Analysis, Data Science, or Data Engineering**, contributing to impactful projects in finance, public safety, or data-driven decision-making.
+Seeking opportunities as a **Data Analyst** or **Business Intelligence Analyst** where I can apply Python, SQL, Power BI, and machine learning to transform data into meaningful insights and help organizations make informed business decisions.
 
 ---
 
- **Contact**  
-- GitHub: this repository  
+## 📫 Let's Connect
+
+💼 LinkedIn  
+https://www.linkedin.com/in/carolembomegninana/
+
+💻 GitHub  
+https://github.com/carolembomegni
+
+📍 Ottawa, Ontario, Canada  
   

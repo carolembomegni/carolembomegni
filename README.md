@@ -23,7 +23,6 @@ Welcome to my GitHub portfolio 👋
 - Business Intelligence & Data Visualization 
 
 ---
----
 
 ## 🛠️ Technical Skills
 
